@@ -25,3 +25,34 @@ A simple Flutter application focused on learning and experimenting with **basic 
 - GestureDetector + InkWell
 - Asset Images
 - State Management using `setState` only (educational project)
+
+
+logic_app/
+├── lib/
+│   ├── Screans/
+│   │   ├── pageOne.dart
+│   │   ├── pageTwo.dart
+│   │   ├── pageThree.dart
+│   │   └── PageFour.dart
+│   └── main.dart           # (Root widget)
+├── images/
+
+
+image': 'images/icon 02.png
+image': 'images/icon 03.png
+image': 'images/icon 05.png
+image': 'images/icon 06.png
+image': 'images/icon 07.png
+image': 'images/icon 10.png
+image': 'images/icon 11.png
+image': 'images/icon 12.png
+image': 'images/Icon 13.png
+image': 'images/Icon 14.png
+image': 'images/Icon 15.png
+image': 'images/Icon 16.png
+image': 'images/img 01.png
+
+ 
+│   └── (كل الصور المستخدمة)
+├── pubspec.yaml
+└── README.md
