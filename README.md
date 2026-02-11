@@ -52,7 +52,5 @@ image': 'images/Icon 15.png
 image': 'images/Icon 16.png
 image': 'images/img 01.png
 
- 
-│   └── (كل الصور المستخدمة)
 ├── pubspec.yaml
 └── README.md
