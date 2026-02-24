@@ -55,5 +55,5 @@ image': 'images/img 01.png
 ├── pubspec.yaml
 └── README.md
 
-<img width="1344" height="2992" alt="Screenshot_1770828774" src="https://github.com/user-attachments/assets/74e20711-b618-458d-947a-01564cba9e70" />
+<img width="1144" height="1444" alt="Screenshot_1770828774" src="https://github.com/user-attachments/assets/74e20711-b618-458d-947a-01564cba9e70" />
 
