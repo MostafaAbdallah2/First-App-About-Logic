@@ -57,3 +57,7 @@ image': 'images/img 01.png
 
 <img width="1144" height="1444" alt="Screenshot_1770828774" src="https://github.com/user-attachments/assets/74e20711-b618-458d-947a-01564cba9e70" />
 
+<img width="1344" height="2992" alt="Screenshot_1770828757" src="https://github.com/user-attachments/assets/fe98d25c-7c51-4766-ae1e-f854d1b0458c" />
+<img width="1344" height="2992" alt="Screenshot_1770828743" src="https://github.com/user-attachments/assets/6d58f406-58cd-4d9e-8ee3-64536e569fa6" />
+<img width="1344" height="2992" alt="Screenshot_1770828736" src="https://github.com/user-attachments/assets/6c740728-1eba-4987-b2fb-6e052102a6b8" />
+<img width="1344" height="2992" alt="Screenshot_1770809534" src="https://github.com/user-attachments/assets/b8b4e392-aa49-4417-8462-db7a31a79041" />
